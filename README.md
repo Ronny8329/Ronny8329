@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Ronny8329/Ronny8329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+adnan8329/adnan8329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
